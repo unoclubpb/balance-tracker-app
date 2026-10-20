@@ -4,3 +4,5 @@
 .suggestions{display:flex;flex-direction:column;gap:3px;background:#202d40;border:1px solid #465976;border-radius:12px;padding:5px;margin-top:-2px}.suggestions button{display:block;text-align:left;background:transparent;color:#fff;border:0;border-radius:8px;padding:13px 14px;font-size:16px;font-weight:500}.suggestions button:active,.suggestions button:focus{background:#344760}
 
 .app-version{text-align:center;color:#7f8ca2;font-size:11px;letter-spacing:.5px;padding:18px 0 0;margin-top:auto}
+
+.share-confirm{margin:auto 0;text-align:center}.share-confirm p{font-size:19px;line-height:1.5}.share-choice{display:grid;gap:14px;margin-top:30px}.share-choice button,.whatsapp-action{display:block;width:100%;border:1px solid #344155;background:#172232;color:#fff;border-radius:12px;padding:18px;font-size:16px;font-weight:700;text-align:center;text-decoration:none}.whatsapp-action{background:#176a49;border-color:#176a49}
