@@ -9,7 +9,7 @@
   "theme_color": "#0b111c",
   "icons": [
     {
-      "src": "/balance-tracker-app/icon.png",
+      "src": "/balance-tracker-app/balance-tracker-icon.png",
       "sizes": "1024x1024",
       "type": "image/png",
       "purpose": "any maskable"
