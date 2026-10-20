@@ -1,0 +1,10 @@
+{
+  "name": "Balance Tracker",
+  "short_name": "Balance",
+  "description": "Personal balance tracking",
+  "start_url": "/balance-tracker-app/",
+  "scope": "/balance-tracker-app/",
+  "display": "standalone",
+  "background_color": "#0b111c",
+  "theme_color": "#0b111c"
+}
