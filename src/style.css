@@ -2,3 +2,5 @@
 .signout{float:right;border:0;background:transparent;color:#a8b5c8;font-size:12px;padding:0}
 
 .suggestions{display:flex;flex-direction:column;gap:3px;background:#202d40;border:1px solid #465976;border-radius:12px;padding:5px;margin-top:-2px}.suggestions button{display:block;text-align:left;background:transparent;color:#fff;border:0;border-radius:8px;padding:13px 14px;font-size:16px;font-weight:500}.suggestions button:active,.suggestions button:focus{background:#344760}
+
+.app-version{text-align:center;color:#7f8ca2;font-size:11px;letter-spacing:.5px;padding:18px 0 0;margin-top:auto}
