@@ -6,3 +6,22 @@
 .app-version{text-align:center;color:#7f8ca2;font-size:11px;letter-spacing:.5px;padding:18px 0 0;margin-top:auto}
 
 .share-confirm{margin:auto 0;text-align:center}.share-confirm p{font-size:19px;line-height:1.5}.share-choice{display:grid;gap:14px;margin-top:30px}.share-choice button,.whatsapp-action{display:block;width:100%;border:1px solid #344155;background:#172232;color:#fff;border-radius:12px;padding:18px;font-size:16px;font-weight:700;text-align:center;text-decoration:none}.whatsapp-action{background:#176a49;border-color:#176a49}
+
+.home-links{display:grid;gap:12px}
+.report-label{color:#a8b5c8;font-size:13px;font-weight:700;margin-bottom:8px}
+.report-presets,.report-filter{display:flex;gap:7px;flex-wrap:wrap}
+.report-presets button,.report-filter button{background:#172232;color:#d7e0ee;border:1px solid #344155;border-radius:10px;padding:11px 12px;font-size:13px;font-weight:650}
+.report-presets button.selected,.report-filter button.selected{background:#87aef9;color:#0b111c;border-color:#87aef9}
+.report-dates{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:16px}
+.report-dates label{font-size:12px;color:#a8b5c8}
+.report-dates input{font-size:14px;padding:12px}
+.report-period{color:#a8b5c8;text-align:center;margin:24px 0 15px}
+.report-totals{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.report-totals section{background:#172232;border:1px solid #344155;border-radius:14px;padding:16px 12px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.report-totals small{font-size:12px;color:#b3c0d1}
+.report-totals strong{font-size:clamp(21px,6vw,28px);overflow-wrap:anywhere}
+.report-net{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #344155;padding:22px 0 14px}
+.report-net strong{font-size:22px}
+.report-filter{margin-bottom:10px}
+.report-item{padding:13px 0}
+.empty-report{color:#a8b5c8;text-align:center;margin:30px 0}
